@@ -1,0 +1,19 @@
+
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+G
+lps/first-lp/index.html,2\7\27d0a669dc25b5a99ec62359f6ff0b568383699e
+W
+'lps/first-lp/src/assets/styles/main.css,2\1\218e349fd85618a23b3ae4b9f1cf4d935cdba1d6
+[
++lps/first-lp/src/assets/styles/elements.css,6\2\6267fad6761b5436a5b6af3df1d52b67cb3e7783
+Z
+*lps/first-lp/src/assets/styles/classes.css,d\c\dc42672a4edef950366512f1244dc5d3e3644dd7
+\
+,lps/first-lp/src/assets/styles/variables.css,9\f\9fd83529f0525fd43db78715671cdada3bc861f4
+W
+'lps/first-lp/src/assets/styles/menu.css,2\f\2f4858381a7fe04722f6e2fbfdef68568ad76dcf
+i
+9lps/first-lp/src/assets/img/undraw_static_assets_rpm6.svg,2\6\263dd0d1e08273e04fcbd88347c558ed714e5427
+h
+8lps/first-lp/src/assets/img/javascript-not-optimized.svg,4\8\48b2ca03aacd6b6540da6088ac8f83d174d49f67
